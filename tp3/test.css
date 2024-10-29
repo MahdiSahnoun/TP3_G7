@@ -1,0 +1,55 @@
+body{
+    background-color: silver;
+    font-family:Arial, Helvetica, sans-serif ;
+    margin: 50px;
+}
+header{
+background-color: aliceblue;    
+text-align:center
+}
+.age,.specialite{
+font-weight: bold;
+}
+.adresse{
+    text-align: right ;
+    font-size: small;
+    padding: 20px;
+}
+a[href="mailto:adam.ali@gmail.com"]{
+    color:red;
+}
+body{
+    background-color: silver;
+    font-family:Arial, Helvetica, sans-serif ;
+    margin: 50px;
+}
+header{
+background-color: aliceblue;    
+text-align:center
+}
+.age,.specialite{
+font-weight: bold;
+}
+.adresse{
+    text-align: right ;
+    font-size: small;
+    padding: 20px;
+}
+a[href="mailto:adam.ali@gmail.com"]:hover{
+text-decoration: none;
+    color: blue;
+    cursor: auto;
+}
+h2{
+    color:blue;
+    background-color: aliceblue;
+    text-transform: uppercase;
+}
+.annee{
+    color:red;
+    font-weight: bold;
+    padding: 100px;
+}
+h3{
+    display:inline;
+}
